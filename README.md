@@ -1,7 +1,7 @@
 # falabella-test
 A photo gallery...
 
-# Instrcuctions
+# Instructions
 
 1.- install node and npm
 
